@@ -2,4 +2,4 @@
 
 Small leisure game.
 
-GUI AND AWT technologies were used.
+GUI and AWT technologies were used.
